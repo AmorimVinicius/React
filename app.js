@@ -1,3 +1,4 @@
+// IMPORTS
 import express from 'express';
 import { accountRouter } from './routes/accountRouter.js';
 import { db } from './models/index.js';
