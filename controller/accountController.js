@@ -216,6 +216,8 @@ const mediaBalance = async (req, res) => {
   }
 };
 
+const putTest = async (req, res) => {};
+
 export default {
   findAll,
   deposit,
